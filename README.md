@@ -6,6 +6,10 @@
 * Create Model and Sprite 
 ## Changelog
 
+**1.0.1**
+
+* Fixed Quality of Item
+
 **1.0.0**
 
 * Release of Sentiels Armor! 
